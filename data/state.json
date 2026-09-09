@@ -1,6 +1,14 @@
 {
   "initialized": true,
   "anchors": [
+    "190b6735a711a59ae207ea58e939afd653ca8e5b",
+    "8813006895e89e3e1c73ae91c57d557c2e735ffd",
+    "5625cd1c7cbafbe46d556f693b1b3006d14ca6fb",
+    "61b1a882b18de92fd097fcf48b1e3fec6cf172b5",
+    "b375d7510182358e2beeafa5b16a9ef3a713733a",
+    "3aa0ff077798cd434b091207cec2a392fc1edb27",
+    "832e5fa19c1e35afef782ba8faaa51a1ed2636c8",
+    "b748853d18c1c43d4aedca6c17fdc3975779bc00",
     "6675064f3e602fa00ac18cf0d119e685727cdf71",
     "c60e93a51308a4e5ec0141c876294e7c4d640f12",
     "33e543d199ec1bb0d147bb955dff0063808e9611",
@@ -91,36 +99,116 @@
     "2ebcdbc6fa8d9cf2dc6501c372781b6560e2a699"
   ],
   "seen_guids": [
-    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
-    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
-    "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html",
-    "https://jestful.net/bsaq-hanako-kari-chapter-15.html",
+    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
     "https://jestful.net/bsaq-onigari-jinja-no-mamori-hime-chapter-13.1.html",
-    "https://jestful.net/bsaq-koi-shoujo-chapter-48.html",
-    "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
-    "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
-    "https://jestful.net/bsaq-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru-chapter-12.html",
-    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
-    "https://jestful.net/bsaq-jjm-joshi-judoubu-monogatari-shakaijinhen-chapter-54.html",
-    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
-    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
-    "https://jestful.net/bsaq-blood-crawling-princess-of-a-ruined-country-raw-chapter-31.2.html",
-    "https://jestful.net/bsaq-isekai-henkyo-meshi-chapter-73.html",
-    "https://jestful.net/bsaq-gyaru-shinkan-wa-rizare-ga-darui-raw-chapter-21.html",
-    "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
     "https://jestful.net/bsaq-ki-ni-naru-kurumi-san-raw-chapter-64.html",
-    "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
-    "https://jestful.net/bsaq-one-punch-man-raw-chapter-284.html",
     "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
-    "https://jestful.net/bsaq-youchien-wars-chapter-139.html",
-    "https://jestful.net/bsaq-majutsu-girudo-sousui-umarekawatte-imasara-yarinaosu-2-dome-no-gakuin-seikatsu--chapter-135.html",
-    "https://jestful.net/bsaq-isekai-maou-to-shoukan-shoujo-dorei-majutsu-raw-chapter-140.5.html",
-    "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
+    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+    "https://jestful.net/bsaq-gate-0-jieitai-ginzai-nite-kaku-tatakaeri-chapter-25.1.html",
+    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
+    "https://jestful.net/bsaq-koi-shoujo-chapter-48.html",
+    "https://jestful.net/bsaq-zabaaan-chapter-7.html",
+    "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
+    "https://jestful.net/bsaq-blood-crawling-princess-of-a-ruined-country-raw-chapter-31.2.html",
+    "https://jestful.net/bsaq-v-na-imouto-no-love-song-chapter-12.html",
+    "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
+    "https://jestful.net/bsaq-handreddo-noto-kofin-robin--chapter-7.html",
+    "https://jestful.net/bsaq-tsuki-ga-michibiku-isekai-douchuu-raw-chapter-121.html",
+    "https://jestful.net/bsaq-the-reincarnated-granny-wont-look-away-the-second-life-of-the-former-tyrannical-empress-chapter-45.1.html",
+    "https://jestful.net/bsaq-one-punch-man-raw-chapter-284.html",
     "https://jestful.net/bsaq-saijaku-kizoku-ni-tensei-shita-node-akuyaku-tachi-wo-atsumete-mita-chapter-24.5.html",
     "https://jestful.net/bsaq-isekai-gourmet-de-nariagari-muso-raw-chapter-51.html",
-    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html"
+    "https://jestful.net/bsaq-youchien-wars-chapter-139.html",
+    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+    "https://jestful.net/bsaq-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru-chapter-12.html",
+    "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html",
+    "https://jestful.net/bsaq-gyaru-shinkan-wa-rizare-ga-darui-raw-chapter-21.html",
+    "https://jestful.net/bsaq-isekai-henkyo-meshi-chapter-73.html",
+    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
+    "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
+    "https://jestful.net/bsaq-jjm-joshi-judoubu-monogatari-shakaijinhen-chapter-54.html",
+    "https://jestful.net/bsaq-isekai-maou-to-shoukan-shoujo-dorei-majutsu-raw-chapter-140.5.html",
+    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
+    "https://jestful.net/bsaq-majutsu-girudo-sousui-umarekawatte-imasara-yarinaosu-2-dome-no-gakuin-seikatsu--chapter-135.html",
+    "https://jestful.net/bsaq-free-life-of-a-leisurely-otherworldly-person-im-not-a-hero-so-ill-do-whatever-i-want-chapter-47.html",
+    "https://jestful.net/bsaq-hanako-kari-chapter-15.html",
+    "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
+    "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
+    "https://jestful.net/bsaq-hanabasu-kokeishi-hanae-no-basuke-ron-chapter-73.html"
   ],
   "feed_items": [
+    {
+      "title": "[更新] Hanabasu: Kokeishi Hanae No Basuke Ron - Chapter 73",
+      "link": "https://jestful.net/bsaq-hanabasu-kokeishi-hanae-no-basuke-ron-chapter-73.html",
+      "guid": "https://jestful.net/bsaq-hanabasu-kokeishi-hanae-no-basuke-ron-chapter-73.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250101/cvv_677561e2ee4d9.jpg\" alt=\"Hanabasu: Kokeishi Hanae No Basuke Ron\" style=\"max-width:320px;height:auto\"></p><p><strong>Hanabasu: Kokeishi Hanae No Basuke Ron</strong><br>Latest Chapter: 73</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:31 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250101/cvv_677561e2ee4d9.jpg",
+      "manga_url": "https://jestful.net/hwms-hanabasu-kokeishi-hanae-no-basuke-ron.html"
+    },
+    {
+      "title": "[更新] Handreddo Noto - Kofin Robin - - Chapter 7",
+      "link": "https://jestful.net/bsaq-handreddo-noto-kofin-robin--chapter-7.html",
+      "guid": "https://jestful.net/bsaq-handreddo-noto-kofin-robin--chapter-7.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260617/01_6a32bf4606765.jpg\" alt=\"Handreddo Noto - Kofin Robin -\" style=\"max-width:320px;height:auto\"></p><p><strong>Handreddo Noto - Kofin Robin -</strong><br>Latest Chapter: 7</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:32 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260617/01_6a32bf4606765.jpg",
+      "manga_url": "https://jestful.net/hwms-handreddo-noto-kofin-robin-.html"
+    },
+    {
+      "title": "[更新] Zabaaan - Chapter 7",
+      "link": "https://jestful.net/bsaq-zabaaan-chapter-7.html",
+      "guid": "https://jestful.net/bsaq-zabaaan-chapter-7.html",
+      "description": "<p><img src=\"https://s4.ihlv1.xyz/images4/20260722/k81p1rl1qlfmrwbhp4l.webp\" alt=\"Zabaaan\" style=\"max-width:320px;height:auto\"></p><p><strong>Zabaaan</strong><br>Latest Chapter: 7</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:32 +0000",
+      "cover_url": "https://s4.ihlv1.xyz/images4/20260722/k81p1rl1qlfmrwbhp4l.webp",
+      "manga_url": "https://jestful.net/hwms-zabaaan.html"
+    },
+    {
+      "title": "[更新] V Na Imouto No Love Song - Chapter 12",
+      "link": "https://jestful.net/bsaq-v-na-imouto-no-love-song-chapter-12.html",
+      "guid": "https://jestful.net/bsaq-v-na-imouto-no-love-song-chapter-12.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250207/67a544691b709_67a54469c7251.jpg\" alt=\"V Na Imouto No Love Song\" style=\"max-width:320px;height:auto\"></p><p><strong>V Na Imouto No Love Song</strong><br>Latest Chapter: 12</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:33 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250207/67a544691b709_67a54469c7251.jpg",
+      "manga_url": "https://jestful.net/hwms-v-na-imouto-no-love-song.html"
+    },
+    {
+      "title": "[更新] Tsuki Ga Michibiku Isekai Douchuu - Raw - Chapter 121",
+      "link": "https://jestful.net/bsaq-tsuki-ga-michibiku-isekai-douchuu-raw-chapter-121.html",
+      "guid": "https://jestful.net/bsaq-tsuki-ga-michibiku-isekai-douchuu-raw-chapter-121.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images/20200812/5f33680220d49_5f336803286ec.jpg\" alt=\"Tsuki Ga Michibiku Isekai Douchuu - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>Tsuki Ga Michibiku Isekai Douchuu - Raw</strong><br>Latest Chapter: 121</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:34 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images/20200812/5f33680220d49_5f336803286ec.jpg",
+      "manga_url": "https://jestful.net/hwms-tsuki-ga-michibiku-isekai-douchuu-raw.html"
+    },
+    {
+      "title": "[更新] Gate 0: Jieitai Ginzai Nite Kaku Tatakaeri - Chapter 25.1",
+      "link": "https://jestful.net/bsaq-gate-0-jieitai-ginzai-nite-kaku-tatakaeri-chapter-25.1.html",
+      "guid": "https://jestful.net/bsaq-gate-0-jieitai-ginzai-nite-kaku-tatakaeri-chapter-25.1.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20240313/image_65f180503bdcc.png\" alt=\"Gate 0: Jieitai Ginzai Nite Kaku Tatakaeri\" style=\"max-width:320px;height:auto\"></p><p><strong>Gate 0: Jieitai Ginzai Nite Kaku Tatakaeri</strong><br>Latest Chapter: 25.1</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:35 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20240313/image_65f180503bdcc.png",
+      "manga_url": "https://jestful.net/hwms-gate-0-jieitai-ginzai-nite-kaku-tatakaeri.html"
+    },
+    {
+      "title": "[更新] Free Life Of A Leisurely Otherworldly Person – I’m Not A Hero, So I’ll Do Whatever I Want - Chapter 47",
+      "link": "https://jestful.net/bsaq-free-life-of-a-leisurely-otherworldly-person-im-not-a-hero-so-ill-do-whatever-i-want-chapter-47.html",
+      "guid": "https://jestful.net/bsaq-free-life-of-a-leisurely-otherworldly-person-im-not-a-hero-so-ill-do-whatever-i-want-chapter-47.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images2/20220414/625705bfd61c8_625705c02c892.jpg\" alt=\"Free Life Of A Leisurely Otherworldly Person – I’m Not A Hero, So I’ll Do Whatever I Want\" style=\"max-width:320px;height:auto\"></p><p><strong>Free Life Of A Leisurely Otherworldly Person – I’m Not A Hero, So I’ll Do Whatever I Want</strong><br>Latest Chapter: 47</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:36 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images2/20220414/625705bfd61c8_625705c02c892.jpg",
+      "manga_url": "https://jestful.net/hwms-free-life-of-a-leisurely-otherworldly-person-im-not-a-hero-so-ill-do-whatever-i-want.html"
+    },
+    {
+      "title": "[更新] The Reincarnated Granny Won't Look Away! - The Second Life Of The Former Tyrannical Empress - Chapter 45.1",
+      "link": "https://jestful.net/bsaq-the-reincarnated-granny-wont-look-away-the-second-life-of-the-former-tyrannical-empress-chapter-45.1.html",
+      "guid": "https://jestful.net/bsaq-the-reincarnated-granny-wont-look-away-the-second-life-of-the-former-tyrannical-empress-chapter-45.1.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images2/20210813/61160c3318e6a_61160c3546046.jpg\" alt=\"The Reincarnated Granny Won&#x27;t Look Away! - The Second Life Of The Former Tyrannical Empress\" style=\"max-width:320px;height:auto\"></p><p><strong>The Reincarnated Granny Won&#x27;t Look Away! - The Second Life Of The Former Tyrannical Empress</strong><br>Latest Chapter: 45.1</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:46:37 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images2/20210813/61160c3318e6a_61160c3546046.jpg",
+      "manga_url": "https://jestful.net/hwms-the-reincarnated-granny-wont-look-away-the-second-life-of-the-former-tyrannical-empress.html"
+    },
     {
       "title": "[更新] Yami Kakusei Shite Shujinkou Ni Bokosareru Kamaseinu Ni Hyoui Shita Ga Gensaku To Chigaitsugite Tomadoitte Ru - Chapter 12",
       "link": "https://jestful.net/bsaq-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru-chapter-12.html",
@@ -374,5 +462,5 @@
       "manga_url": "https://jestful.net/hwms-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw.html"
     }
   ],
-  "last_check": "2026-09-09T15:28:50.801067+00:00"
+  "last_check": "2026-09-09T15:46:38.110853+00:00"
 }
