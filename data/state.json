@@ -1,6 +1,8 @@
 {
   "initialized": true,
   "anchors": [
+    "be493180873fc9b3e335cac76a688a4f0001f00a",
+    "a8b8bbc67885528e7d889d49ab620ea4599a2497",
     "b112b6e0d8fcc19e32f0b53e69ff3f99d5df43c0",
     "91dd7f61c0c9681a64a52f797a3864f0bae94753",
     "513577d7abf7199ef8e9ec688d6b7038efe683b7",
@@ -73,16 +75,36 @@
   ],
   "seen_guids": [
     "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
-    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
+    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
     "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
     "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
-    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
     "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
+    "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
     "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
-    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
-    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html"
+    "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html"
   ],
   "feed_items": [
+    {
+      "title": "[更新] Himekishi-sama No Himo Act2 - Chapter 8.2",
+      "link": "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
+      "guid": "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250902/image_68b6f2a7dc4fb.png\" alt=\"Himekishi-sama No Himo Act2\" style=\"max-width:320px;height:auto\"></p><p><strong>Himekishi-sama No Himo Act2</strong><br>Latest Chapter: 8.2</p>",
+      "pubDate": "Wed, 09 Sep 2026 12:14:07 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250902/image_68b6f2a7dc4fb.png",
+      "manga_url": "https://jestful.net/hwms-himekishi-sama-no-himo-act2.html"
+    },
+    {
+      "title": "[更新] Tensei Daiseijo No Isekai Nombiri Kiko - Chapter 59.2",
+      "link": "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html",
+      "guid": "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images/20210325/605c4eaf74b36_605c4eb01fdeb.jpg\" alt=\"Tensei Daiseijo No Isekai Nombiri Kiko\" style=\"max-width:320px;height:auto\"></p><p><strong>Tensei Daiseijo No Isekai Nombiri Kiko</strong><br>Latest Chapter: 59.2</p>",
+      "pubDate": "Wed, 09 Sep 2026 12:14:08 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images/20210325/605c4eaf74b36_605c4eb01fdeb.jpg",
+      "manga_url": "https://jestful.net/hwms-tensei-daiseijo-no-isekai-nombiri-kiko.html"
+    },
     {
       "title": "[更新] Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu! - Chapter 3.1",
       "link": "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
@@ -165,5 +187,5 @@
       "manga_url": "https://jestful.net/hwms-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw.html"
     }
   ],
-  "last_check": "2026-09-09T11:54:05.230996+00:00"
+  "last_check": "2026-09-09T12:14:08.825905+00:00"
 }
