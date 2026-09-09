@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Jestful 全作品 更新通知</title>
+    <link>https://jestful.net/manga-list.html</link>
+    <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
+    <language>ja</language>
+    <lastBuildDate>Wed, 09 Sep 2026 10:58:08 +0000</lastBuildDate>
+    <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
