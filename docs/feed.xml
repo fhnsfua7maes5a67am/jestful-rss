@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:26:50 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Chikubi × Buddy - Chapter 3</title>
+      <link>https://jestful.net/bsaq-chikubi-buddy-chapter-3.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-chikubi-buddy-chapter-3.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260827/chikubi-buddy_6a8fcbc525e71.jpg" alt="Chikubi × Buddy" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chikubi × Buddy&lt;/strong&gt;&lt;br&gt;Latest Chapter: 3&lt;/p&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 17:26:50 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260827/chikubi-buddy_6a8fcbc525e71.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260827/chikubi-buddy_6a8fcbc525e71.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Enigmatica - Chapter 27</title>
       <link>https://jestful.net/bsaq-enigmatica-chapter-27.html</link>
