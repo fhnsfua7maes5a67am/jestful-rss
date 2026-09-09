@@ -1,6 +1,20 @@
 {
   "initialized": true,
   "anchors": [
+    "6675064f3e602fa00ac18cf0d119e685727cdf71",
+    "c60e93a51308a4e5ec0141c876294e7c4d640f12",
+    "33e543d199ec1bb0d147bb955dff0063808e9611",
+    "2cd423dc931da88a293725cd177d7aff810ea298",
+    "767de2f8a3bba537082bfe7a2931cbd1dec6af61",
+    "3221eef88deaf7139d4bfbf7724b04e1ff86e7ad",
+    "0e2415c0ab9fb474f0f5926c560a8ef716b8592e",
+    "0d5dab31cdc09f71837e3a7fcc45aad0b14fe0a1",
+    "0e9eaf632821511faf963f1cdf4bfe65f754791d",
+    "ab954cdeb9dc0ec8924600b091f90d65b69ab3f2",
+    "a8ec3cbba1021566047c6e4ddeb6ebd6efeb8bf5",
+    "285c75d50c7f53d7f6105af09b006fde19baf74c",
+    "c324d2be7da9f0f8002148164698f064ef7b8442",
+    "892110124ffe42f4db41686a8f1ed31211fc2560",
     "d0a259831efc9e2c98f456ebeba1db745225c45d",
     "cad6fbf8afb6d09c6a233fc11fb20d5265825651",
     "4e0f93a0b0672f7a3f5b8edd23ed1d04242f84f4",
@@ -77,22 +91,162 @@
     "2ebcdbc6fa8d9cf2dc6501c372781b6560e2a699"
   ],
   "seen_guids": [
-    "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
-    "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
     "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
-    "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
-    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
-    "https://jestful.net/bsaq-onigari-jinja-no-mamori-hime-chapter-13.1.html",
     "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
-    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
     "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html",
+    "https://jestful.net/bsaq-hanako-kari-chapter-15.html",
+    "https://jestful.net/bsaq-onigari-jinja-no-mamori-hime-chapter-13.1.html",
+    "https://jestful.net/bsaq-koi-shoujo-chapter-48.html",
     "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
-    "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
+    "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
+    "https://jestful.net/bsaq-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru-chapter-12.html",
     "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+    "https://jestful.net/bsaq-jjm-joshi-judoubu-monogatari-shakaijinhen-chapter-54.html",
+    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
+    "https://jestful.net/bsaq-blood-crawling-princess-of-a-ruined-country-raw-chapter-31.2.html",
+    "https://jestful.net/bsaq-isekai-henkyo-meshi-chapter-73.html",
+    "https://jestful.net/bsaq-gyaru-shinkan-wa-rizare-ga-darui-raw-chapter-21.html",
+    "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
+    "https://jestful.net/bsaq-ki-ni-naru-kurumi-san-raw-chapter-64.html",
+    "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
+    "https://jestful.net/bsaq-one-punch-man-raw-chapter-284.html",
+    "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
+    "https://jestful.net/bsaq-youchien-wars-chapter-139.html",
+    "https://jestful.net/bsaq-majutsu-girudo-sousui-umarekawatte-imasara-yarinaosu-2-dome-no-gakuin-seikatsu--chapter-135.html",
+    "https://jestful.net/bsaq-isekai-maou-to-shoukan-shoujo-dorei-majutsu-raw-chapter-140.5.html",
     "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
-    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html"
+    "https://jestful.net/bsaq-saijaku-kizoku-ni-tensei-shita-node-akuyaku-tachi-wo-atsumete-mita-chapter-24.5.html",
+    "https://jestful.net/bsaq-isekai-gourmet-de-nariagari-muso-raw-chapter-51.html",
+    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html"
   ],
   "feed_items": [
+    {
+      "title": "[更新] Yami Kakusei Shite Shujinkou Ni Bokosareru Kamaseinu Ni Hyoui Shita Ga Gensaku To Chigaitsugite Tomadoitte Ru - Chapter 12",
+      "link": "https://jestful.net/bsaq-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru-chapter-12.html",
+      "guid": "https://jestful.net/bsaq-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru-chapter-12.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260528/yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru_6a17b6cdf25bd.png\" alt=\"Yami Kakusei Shite Shujinkou Ni Bokosareru Kamaseinu Ni Hyoui Shita Ga Gensaku To Chigaitsugite Tomadoitte Ru\" style=\"max-width:320px;height:auto\"></p><p><strong>Yami Kakusei Shite Shujinkou Ni Bokosareru Kamaseinu Ni Hyoui Shita Ga Gensaku To Chigaitsugite Tomadoitte Ru</strong><br>Latest Chapter: 12</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:39 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260528/yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru_6a17b6cdf25bd.png",
+      "manga_url": "https://jestful.net/hwms-yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaitsugite-tomadoitte-ru.html"
+    },
+    {
+      "title": "[更新] Hanako Kari - Chapter 15",
+      "link": "https://jestful.net/bsaq-hanako-kari-chapter-15.html",
+      "guid": "https://jestful.net/bsaq-hanako-kari-chapter-15.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250918/image_68cc2f69ed4fa.png\" alt=\"Hanako Kari\" style=\"max-width:320px;height:auto\"></p><p><strong>Hanako Kari</strong><br>Latest Chapter: 15</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:40 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250918/image_68cc2f69ed4fa.png",
+      "manga_url": "https://jestful.net/hwms-hanako-kari.html"
+    },
+    {
+      "title": "[更新] Gyaru Shinkan Wa Rizare Ga Darui - Raw - Chapter 21",
+      "link": "https://jestful.net/bsaq-gyaru-shinkan-wa-rizare-ga-darui-raw-chapter-21.html",
+      "guid": "https://jestful.net/bsaq-gyaru-shinkan-wa-rizare-ga-darui-raw-chapter-21.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250815/image_689ea79fbe9a4.png\" alt=\"Gyaru Shinkan Wa Rizare Ga Darui - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>Gyaru Shinkan Wa Rizare Ga Darui - Raw</strong><br>Latest Chapter: 21</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:40 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250815/image_689ea79fbe9a4.png",
+      "manga_url": "https://jestful.net/hwms-gyaru-shinkan-wa-rizare-ga-darui-raw.html"
+    },
+    {
+      "title": "[更新] Isekai Gourmet De Nariagari Muso - Raw - Chapter 51",
+      "link": "https://jestful.net/bsaq-isekai-gourmet-de-nariagari-muso-raw-chapter-51.html",
+      "guid": "https://jestful.net/bsaq-isekai-gourmet-de-nariagari-muso-raw-chapter-51.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250703/image_68665153dc68c.png\" alt=\"Isekai Gourmet De Nariagari Muso - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>Isekai Gourmet De Nariagari Muso - Raw</strong><br>Latest Chapter: 51</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:41 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250703/image_68665153dc68c.png",
+      "manga_url": "https://jestful.net/hwms-isekai-gourmet-de-nariagari-muso-raw.html"
+    },
+    {
+      "title": "[更新] Ki Ni Naru Kurumi-san! - Raw - Chapter 64",
+      "link": "https://jestful.net/bsaq-ki-ni-naru-kurumi-san-raw-chapter-64.html",
+      "guid": "https://jestful.net/bsaq-ki-ni-naru-kurumi-san-raw-chapter-64.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250511/003_68203d61c01b0.jpg\" alt=\"Ki Ni Naru Kurumi-san! - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>Ki Ni Naru Kurumi-san! - Raw</strong><br>Latest Chapter: 64</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:42 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250511/003_68203d61c01b0.jpg",
+      "manga_url": "https://jestful.net/hwms-ki-ni-naru-kurumi-san-raw.html"
+    },
+    {
+      "title": "[更新] Isekai Henkyo Meshi - Chapter 73",
+      "link": "https://jestful.net/bsaq-isekai-henkyo-meshi-chapter-73.html",
+      "guid": "https://jestful.net/bsaq-isekai-henkyo-meshi-chapter-73.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20241225/image_676b95b713dec.png\" alt=\"Isekai Henkyo Meshi\" style=\"max-width:320px;height:auto\"></p><p><strong>Isekai Henkyo Meshi</strong><br>Latest Chapter: 73</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:43 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20241225/image_676b95b713dec.png",
+      "manga_url": "https://jestful.net/hwms-isekai-henkyo-meshi.html"
+    },
+    {
+      "title": "[更新] Saijaku Kizoku Ni Tensei Shita Node Akuyaku Tachi Wo Atsumete Mita - Chapter 24.5",
+      "link": "https://jestful.net/bsaq-saijaku-kizoku-ni-tensei-shita-node-akuyaku-tachi-wo-atsumete-mita-chapter-24.5.html",
+      "guid": "https://jestful.net/bsaq-saijaku-kizoku-ni-tensei-shita-node-akuyaku-tachi-wo-atsumete-mita-chapter-24.5.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20241205/image_6751c904a501b.png\" alt=\"Saijaku Kizoku Ni Tensei Shita Node Akuyaku Tachi Wo Atsumete Mita\" style=\"max-width:320px;height:auto\"></p><p><strong>Saijaku Kizoku Ni Tensei Shita Node Akuyaku Tachi Wo Atsumete Mita</strong><br>Latest Chapter: 24.5</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:44 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20241205/image_6751c904a501b.png",
+      "manga_url": "https://jestful.net/hwms-saijaku-kizoku-ni-tensei-shita-node-akuyaku-tachi-wo-atsumete-mita.html"
+    },
+    {
+      "title": "[更新] Koi Shoujo - Chapter 48",
+      "link": "https://jestful.net/bsaq-koi-shoujo-chapter-48.html",
+      "guid": "https://jestful.net/bsaq-koi-shoujo-chapter-48.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20240410/image_6616ad27f41fa.png\" alt=\"Koi Shoujo\" style=\"max-width:320px;height:auto\"></p><p><strong>Koi Shoujo</strong><br>Latest Chapter: 48</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:45 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20240410/image_6616ad27f41fa.png",
+      "manga_url": "https://jestful.net/hwms-koi-shoujo.html"
+    },
+    {
+      "title": "[更新] Jjm - Joshi Judoubu Monogatari Shakaijinhen - Chapter 54",
+      "link": "https://jestful.net/bsaq-jjm-joshi-judoubu-monogatari-shakaijinhen-chapter-54.html",
+      "guid": "https://jestful.net/bsaq-jjm-joshi-judoubu-monogatari-shakaijinhen-chapter-54.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20240113/01_65a28630650a6.jpg\" alt=\"Jjm - Joshi Judoubu Monogatari Shakaijinhen\" style=\"max-width:320px;height:auto\"></p><p><strong>Jjm - Joshi Judoubu Monogatari Shakaijinhen</strong><br>Latest Chapter: 54</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:46 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20240113/01_65a28630650a6.jpg",
+      "manga_url": "https://jestful.net/hwms-jjm-joshi-judoubu-monogatari-shakaijinhen.html"
+    },
+    {
+      "title": "[更新] Majutsu Girudo Sousui ~ Umarekawatte Imasara Yarinaosu 2 Dome No Gakuin Seikatsu ~ - Chapter 135",
+      "link": "https://jestful.net/bsaq-majutsu-girudo-sousui-umarekawatte-imasara-yarinaosu-2-dome-no-gakuin-seikatsu--chapter-135.html",
+      "guid": "https://jestful.net/bsaq-majutsu-girudo-sousui-umarekawatte-imasara-yarinaosu-2-dome-no-gakuin-seikatsu--chapter-135.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20230907/06_64f97768ada89.jpg\" alt=\"Majutsu Girudo Sousui ~ Umarekawatte Imasara Yarinaosu 2 Dome No Gakuin Seikatsu ~\" style=\"max-width:320px;height:auto\"></p><p><strong>Majutsu Girudo Sousui ~ Umarekawatte Imasara Yarinaosu 2 Dome No Gakuin Seikatsu ~</strong><br>Latest Chapter: 135</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:46 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20230907/06_64f97768ada89.jpg",
+      "manga_url": "https://jestful.net/hwms-majutsu-girudo-sousui-umarekawatte-imasara-yarinaosu-2-dome-no-gakuin-seikatsu-.html"
+    },
+    {
+      "title": "[更新] Blood-crawling Princess Of A Ruined Country - Raw - Chapter 31.2",
+      "link": "https://jestful.net/bsaq-blood-crawling-princess-of-a-ruined-country-raw-chapter-31.2.html",
+      "guid": "https://jestful.net/bsaq-blood-crawling-princess-of-a-ruined-country-raw-chapter-31.2.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images2/20230329/02_6424585ecee62.jpg\" alt=\"Blood-crawling Princess Of A Ruined Country - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>Blood-crawling Princess Of A Ruined Country - Raw</strong><br>Latest Chapter: 31.2</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:47 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images2/20230329/02_6424585ecee62.jpg",
+      "manga_url": "https://jestful.net/hwms-blood-crawling-princess-of-a-ruined-country-raw.html"
+    },
+    {
+      "title": "[更新] Youchien Wars - Chapter 139",
+      "link": "https://jestful.net/bsaq-youchien-wars-chapter-139.html",
+      "guid": "https://jestful.net/bsaq-youchien-wars-chapter-139.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images2/20220914/03_6321f65a44178.jpg\" alt=\"Youchien Wars\" style=\"max-width:320px;height:auto\"></p><p><strong>Youchien Wars</strong><br>Latest Chapter: 139</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:48 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images2/20220914/03_6321f65a44178.jpg",
+      "manga_url": "https://jestful.net/hwms-youchien-wars.html"
+    },
+    {
+      "title": "[更新] One Punch-man - Raw - Chapter 284",
+      "link": "https://jestful.net/bsaq-one-punch-man-raw-chapter-284.html",
+      "guid": "https://jestful.net/bsaq-one-punch-man-raw-chapter-284.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images2/20220918/6326ddbe81d5f_6326ddbe909ee.jpg\" alt=\"One Punch-man - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>One Punch-man - Raw</strong><br>Latest Chapter: 284</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:49 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images2/20220918/6326ddbe81d5f_6326ddbe909ee.jpg",
+      "manga_url": "https://jestful.net/hwms-one-punch-man-raw.html"
+    },
+    {
+      "title": "[更新] Isekai Maou To Shoukan Shoujo Dorei Majutsu - Raw - Chapter 140.5",
+      "link": "https://jestful.net/bsaq-isekai-maou-to-shoukan-shoujo-dorei-majutsu-raw-chapter-140.5.html",
+      "guid": "https://jestful.net/bsaq-isekai-maou-to-shoukan-shoujo-dorei-majutsu-raw-chapter-140.5.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images/20200812/5f336c1dcbb5e_5f336c20652eb.jpg\" alt=\"Isekai Maou To Shoukan Shoujo Dorei Majutsu - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>Isekai Maou To Shoukan Shoujo Dorei Majutsu - Raw</strong><br>Latest Chapter: 140.5</p>",
+      "pubDate": "Wed, 09 Sep 2026 15:28:50 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images/20200812/5f336c1dcbb5e_5f336c20652eb.jpg",
+      "manga_url": "https://jestful.net/hwms-isekai-maou-to-shoukan-shoujo-dorei-majutsu-raw.html"
+    },
     {
       "title": "[更新] Sabusuku Ikemen No Renai Shidou - Dousei Tsuki Tte Kiitemasen - Chapter 16.2",
       "link": "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
@@ -220,5 +374,5 @@
       "manga_url": "https://jestful.net/hwms-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw.html"
     }
   ],
-  "last_check": "2026-09-09T15:10:43.954420+00:00"
+  "last_check": "2026-09-09T15:28:50.801067+00:00"
 }
