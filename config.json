@@ -1,0 +1,9 @@
+{
+  "initial_baseline_pages": 3,
+  "max_scan_pages": 40,
+  "request_delay_seconds": 0.7,
+  "detail_request_delay_seconds": 0.5,
+  "timeout_seconds": 30,
+  "feed_max_items": 500,
+  "anchor_memory": 1000
+}
