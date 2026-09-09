@@ -1,6 +1,15 @@
 {
   "initialized": true,
   "anchors": [
+    "b112b6e0d8fcc19e32f0b53e69ff3f99d5df43c0",
+    "91dd7f61c0c9681a64a52f797a3864f0bae94753",
+    "513577d7abf7199ef8e9ec688d6b7038efe683b7",
+    "9c6fc3fd9df90315679ebf474a1e660c1b711d4a",
+    "5b3316718e46d84fcad8064b4f91ca16c2928717",
+    "b79e9d2a95f0969c3107d432c10e00d24757ed10",
+    "e01adb63174929f411de55b26667baa49a8d13ef",
+    "6435ea6a182bd7f9d442f8b75f8deaabfb8e8cb5",
+    "89fe6827daff4f4ead796c32ecaa694bb860d78f",
     "c61d2d1ed8e8c0c5c55126779e499e32d61302f3",
     "cd031a33880fe250b1ffe2dd5ee1357992ae004a",
     "a753e1574ddfa23de53a971a77c488ad043fc3f8",
@@ -62,7 +71,99 @@
     "7f1fdc521df4eeb71a9425628d9f683549ad5c6f",
     "2ebcdbc6fa8d9cf2dc6501c372781b6560e2a699"
   ],
-  "seen_guids": [],
-  "feed_items": [],
-  "last_check": "2026-09-09T11:40:54.593119+00:00"
+  "seen_guids": [
+    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
+    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
+    "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
+    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+    "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
+    "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
+    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
+    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html"
+  ],
+  "feed_items": [
+    {
+      "title": "[更新] Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu! - Chapter 3.1",
+      "link": "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
+      "guid": "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260812/ryouchi-no-subete-wo-golem-de-jidouka-shita-ore_6a7c06acedb72.jpg\" alt=\"Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu!\" style=\"max-width:320px;height:auto\"></p><p><strong>Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu!</strong><br>Latest Chapter: 3.1</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:53:57 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260812/ryouchi-no-subete-wo-golem-de-jidouka-shita-ore_6a7c06acedb72.jpg",
+      "manga_url": "https://jestful.net/hwms-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu.html"
+    },
+    {
+      "title": "[更新] Ryuutsuhegui - Chapter 11",
+      "link": "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
+      "guid": "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260501/image_69f4d06c89db0.png\" alt=\"Ryuutsuhegui\" style=\"max-width:320px;height:auto\"></p><p><strong>Ryuutsuhegui</strong><br>Latest Chapter: 11</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:53:58 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260501/image_69f4d06c89db0.png",
+      "manga_url": "https://jestful.net/hwms-ryuutsuhegui.html"
+    },
+    {
+      "title": "[更新] Zensei Ga Saikyou Madoushi Datta Ore, Isekai Mahou De Musou Suru! - Chapter 7.1",
+      "link": "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
+      "guid": "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260408/zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru_69d5fc323f635.jpeg\" alt=\"Zensei Ga Saikyou Madoushi Datta Ore, Isekai Mahou De Musou Suru!\" style=\"max-width:320px;height:auto\"></p><p><strong>Zensei Ga Saikyou Madoushi Datta Ore, Isekai Mahou De Musou Suru!</strong><br>Latest Chapter: 7.1</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:53:58 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260408/zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru_69d5fc323f635.jpeg",
+      "manga_url": "https://jestful.net/hwms-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru.html"
+    },
+    {
+      "title": "[更新] Konyaku Haki Saretai Node Sugao Wo Kakushite Zannen Reijou Ni Narimasu! E? Haraguro Ouji Ni Bareteru Toka Kiitenaindesukedo!? - Chapter 13",
+      "link": "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
+      "guid": "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260319/konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e_69bb898d483eb.jpg\" alt=\"Konyaku Haki Saretai Node Sugao Wo Kakushite Zannen Reijou Ni Narimasu! E? Haraguro Ouji Ni Bareteru Toka Kiitenaindesukedo!?\" style=\"max-width:320px;height:auto\"></p><p><strong>Konyaku Haki Saretai Node Sugao Wo Kakushite Zannen Reijou Ni Narimasu! E? Haraguro Ouji Ni Bareteru Toka Kiitenaindesukedo!?</strong><br>Latest Chapter: 13</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:53:59 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260319/konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e_69bb898d483eb.jpg",
+      "manga_url": "https://jestful.net/hwms-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo.html"
+    },
+    {
+      "title": "[更新] Nakama Wo Mamotte Shindara Nijuunen Go No Onaji Sekai Ni Umarekawatta Kudan……demo Ore, Tensei Nikame Nandakedo? - Chapter 12",
+      "link": "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+      "guid": "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images4/20260225/image_699e6c1525747.png\" alt=\"Nakama Wo Mamotte Shindara Nijuunen Go No Onaji Sekai Ni Umarekawatta Kudan……demo Ore, Tensei Nikame Nandakedo?\" style=\"max-width:320px;height:auto\"></p><p><strong>Nakama Wo Mamotte Shindara Nijuunen Go No Onaji Sekai Ni Umarekawatta Kudan……demo Ore, Tensei Nikame Nandakedo?</strong><br>Latest Chapter: 12</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:54:00 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images4/20260225/image_699e6c1525747.png",
+      "manga_url": "https://jestful.net/hwms-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo.html"
+    },
+    {
+      "title": "[更新] Yuusha Party Wo Oidasareta Kiyou Binbou Gaiden - Off No Selma-san Wa Bukiyou!? - Chapter 6.2",
+      "link": "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
+      "guid": "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20251228/image_6950bacb32a49.png\" alt=\"Yuusha Party Wo Oidasareta Kiyou Binbou Gaiden - Off No Selma-san Wa Bukiyou!?\" style=\"max-width:320px;height:auto\"></p><p><strong>Yuusha Party Wo Oidasareta Kiyou Binbou Gaiden - Off No Selma-san Wa Bukiyou!?</strong><br>Latest Chapter: 6.2</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:54:01 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20251228/image_6950bacb32a49.png",
+      "manga_url": "https://jestful.net/hwms-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou.html"
+    },
+    {
+      "title": "[更新] Yotaka Futatabi - Chapter 27",
+      "link": "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
+      "guid": "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20251114/04_6916c203e3aa4.jpg\" alt=\"Yotaka Futatabi\" style=\"max-width:320px;height:auto\"></p><p><strong>Yotaka Futatabi</strong><br>Latest Chapter: 27</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:54:02 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20251114/04_6916c203e3aa4.jpg",
+      "manga_url": "https://jestful.net/hwms-yotaka-futatabi.html"
+    },
+    {
+      "title": "[更新] Kuroneko To Majo No Kyoushitsu - Chapter 119",
+      "link": "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+      "guid": "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images2/20220316/6231f4883082e_6231f4890670a.jpg\" alt=\"Kuroneko To Majo No Kyoushitsu\" style=\"max-width:320px;height:auto\"></p><p><strong>Kuroneko To Majo No Kyoushitsu</strong><br>Latest Chapter: 119</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:54:03 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images2/20220316/6231f4883082e_6231f4890670a.jpg",
+      "manga_url": "https://jestful.net/hwms-kuroneko-to-majo-no-kyoushitsu.html"
+    },
+    {
+      "title": "[更新] The Strongest Dull Prince’s Secret Battle For The Throne (manga) - Raw - Chapter 57.1",
+      "link": "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
+      "guid": "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images/20201021/5f8fa8b2e9a84_5f8fa8b49ec68.jpg\" alt=\"The Strongest Dull Prince’s Secret Battle For The Throne (manga) - Raw\" style=\"max-width:320px;height:auto\"></p><p><strong>The Strongest Dull Prince’s Secret Battle For The Throne (manga) - Raw</strong><br>Latest Chapter: 57.1</p>",
+      "pubDate": "Wed, 09 Sep 2026 11:54:04 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images/20201021/5f8fa8b2e9a84_5f8fa8b49ec68.jpg",
+      "manga_url": "https://jestful.net/hwms-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw.html"
+    }
+  ],
+  "last_check": "2026-09-09T11:54:05.230996+00:00"
 }
