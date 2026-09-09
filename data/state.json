@@ -1,6 +1,9 @@
 {
   "initialized": true,
   "anchors": [
+    "d0a259831efc9e2c98f456ebeba1db745225c45d",
+    "cad6fbf8afb6d09c6a233fc11fb20d5265825651",
+    "4e0f93a0b0672f7a3f5b8edd23ed1d04242f84f4",
     "be493180873fc9b3e335cac76a688a4f0001f00a",
     "a8b8bbc67885528e7d889d49ab620ea4599a2497",
     "b112b6e0d8fcc19e32f0b53e69ff3f99d5df43c0",
@@ -74,19 +77,49 @@
     "2ebcdbc6fa8d9cf2dc6501c372781b6560e2a699"
   ],
   "seen_guids": [
-    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
-    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
-    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html",
-    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
-    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
-    "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
-    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+    "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html",
     "https://jestful.net/bsaq-yuusha-party-wo-oidasareta-kiyou-binbou-gaiden-off-no-selma-san-wa-bukiyou-chapter-6.2.html",
+    "https://jestful.net/bsaq-onigari-jinja-no-mamori-hime-chapter-13.1.html",
+    "https://jestful.net/bsaq-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw-chapter-57.1.html",
+    "https://jestful.net/bsaq-nakama-wo-mamotte-shindara-nijuunen-go-no-onaji-sekai-ni-umarekawatta-kudandemo-ore-tensei-nikame-nandakedo-chapter-12.html",
+    "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
+    "https://jestful.net/bsaq-konyaku-haki-saretai-node-sugao-wo-kakushite-zannen-reijou-ni-narimasu-e-haraguro-ouji-ni-bareteru-toka-kiitenaindesukedo-chapter-13.html",
+    "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
+    "https://jestful.net/bsaq-yotaka-futatabi-chapter-27.html",
     "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
+    "https://jestful.net/bsaq-ryuutsuhegui-chapter-11.html",
     "https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.1.html",
-    "https://jestful.net/bsaq-tensei-daiseijo-no-isekai-nombiri-kiko-chapter-59.2.html"
+    "https://jestful.net/bsaq-zensei-ga-saikyou-madoushi-datta-ore-isekai-mahou-de-musou-suru-chapter-7.1.html",
+    "https://jestful.net/bsaq-kuroneko-to-majo-no-kyoushitsu-chapter-119.html"
   ],
   "feed_items": [
+    {
+      "title": "[更新] Sabusuku Ikemen No Renai Shidou - Dousei Tsuki Tte Kiitemasen - Chapter 16.2",
+      "link": "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
+      "guid": "https://jestful.net/bsaq-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen-chapter-16.2.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20250717/03_687916e372d26.jpg\" alt=\"Sabusuku Ikemen No Renai Shidou - Dousei Tsuki Tte Kiitemasen\" style=\"max-width:320px;height:auto\"></p><p><strong>Sabusuku Ikemen No Renai Shidou - Dousei Tsuki Tte Kiitemasen</strong><br>Latest Chapter: 16.2</p>",
+      "pubDate": "Wed, 09 Sep 2026 12:37:41 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20250717/03_687916e372d26.jpg",
+      "manga_url": "https://jestful.net/hwms-sabusuku-ikemen-no-renai-shidou-dousei-tsuki-tte-kiitemasen.html"
+    },
+    {
+      "title": "[更新] Onigari Jinja No Mamori Hime - Chapter 13.1",
+      "link": "https://jestful.net/bsaq-onigari-jinja-no-mamori-hime-chapter-13.1.html",
+      "guid": "https://jestful.net/bsaq-onigari-jinja-no-mamori-hime-chapter-13.1.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20240919/image_66ebc581aa9a9.png\" alt=\"Onigari Jinja No Mamori Hime\" style=\"max-width:320px;height:auto\"></p><p><strong>Onigari Jinja No Mamori Hime</strong><br>Latest Chapter: 13.1</p>",
+      "pubDate": "Wed, 09 Sep 2026 12:37:42 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20240919/image_66ebc581aa9a9.png",
+      "manga_url": "https://jestful.net/hwms-onigari-jinja-no-mamori-hime.html"
+    },
+    {
+      "title": "[更新] Class De 2-banme Ni Kawaii Onnanoko To Tomodachi Ni Natta - Chapter 44.2",
+      "link": "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
+      "guid": "https://jestful.net/bsaq-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-chapter-44.2.html",
+      "description": "<p><img src=\"https://j4.jfimv2.xyz/images3/20240429/662f16df39279_662f16df42a40.jpg\" alt=\"Class De 2-banme Ni Kawaii Onnanoko To Tomodachi Ni Natta\" style=\"max-width:320px;height:auto\"></p><p><strong>Class De 2-banme Ni Kawaii Onnanoko To Tomodachi Ni Natta</strong><br>Latest Chapter: 44.2</p>",
+      "pubDate": "Wed, 09 Sep 2026 12:37:42 +0000",
+      "cover_url": "https://j4.jfimv2.xyz/images3/20240429/662f16df39279_662f16df42a40.jpg",
+      "manga_url": "https://jestful.net/hwms-class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.html"
+    },
     {
       "title": "[更新] Himekishi-sama No Himo Act2 - Chapter 8.2",
       "link": "https://jestful.net/bsaq-himekishi-sama-no-himo-act2-chapter-8.2.html",
@@ -187,5 +220,5 @@
       "manga_url": "https://jestful.net/hwms-the-strongest-dull-princes-secret-battle-for-the-throne-manga-raw.html"
     }
   ],
-  "last_check": "2026-09-09T12:14:08.825905+00:00"
+  "last_check": "2026-09-09T12:37:43.400192+00:00"
 }
