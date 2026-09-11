@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:52:36 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Watashi Wa Tengoku - Chapter 2</title>
+      <link>https://jestful.net/bsaq-watashi-wa-tengoku-chapter-2.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-watashi-wa-tengoku-chapter-2.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260911/watashi-wa-tengoku_6aa3ea2022f6e.jpg" alt="Watashi Wa Tengoku" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Watashi Wa Tengoku&lt;/strong&gt;&lt;br&gt;Latest Chapter: 2&lt;/p&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 11:52:36 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260911/watashi-wa-tengoku_6aa3ea2022f6e.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260911/watashi-wa-tengoku_6aa3ea2022f6e.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Vista Da Gigantessa - Chapter 7</title>
       <link>https://jestful.net/bsaq-vista-da-gigantessa-chapter-7.html</link>
