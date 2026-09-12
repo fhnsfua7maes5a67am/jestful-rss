@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:50:41 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Majime Fumajime Maji Koiji - Chapter 9</title>
+      <link>https://jestful.net/bsaq-majime-fumajime-maji-koiji-chapter-9.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-majime-fumajime-maji-koiji-chapter-9.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260525/majime-fumajime-maji-koiji_6a13c46da75e7.jpg" alt="Majime Fumajime Maji Koiji" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Majime Fumajime Maji Koiji&lt;/strong&gt;&lt;br&gt;Latest Chapter: 9&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 16:50:41 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260525/majime-fumajime-maji-koiji_6a13c46da75e7.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260525/majime-fumajime-maji-koiji_6a13c46da75e7.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] "o-aite Wa Ippan No Kata Desu" - Chapter 3.2</title>
       <link>https://jestful.net/bsaq-o-aite-wa-ippan-no-kata-desu-chapter-3.2.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Thu, 10 Sep 2026 04:15:21 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250625/03_685b7bbbb104c.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20250625/03_685b7bbbb104c.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Eiyuu Onna Kishi Ni Yuunou To Bareta Ore No Bijin Harem Kishidan: Gaikaku Hikume No Kijutsu Kishidan - Chapter 21.1</title>
-      <link>https://jestful.net/bsaq-eiyuu-onna-kishi-ni-yuunou-to-bareta-ore-no-bijin-harem-kishidan-gaikaku-hikume-no-kijutsu-kishidan-chapter-21.1.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-eiyuu-onna-kishi-ni-yuunou-to-bareta-ore-no-bijin-harem-kishidan-gaikaku-hikume-no-kijutsu-kishidan-chapter-21.1.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20241003/image_66fe135f2706a.png" alt="Eiyuu Onna Kishi Ni Yuunou To Bareta Ore No Bijin Harem Kishidan: Gaikaku Hikume No Kijutsu Kishidan" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Eiyuu Onna Kishi Ni Yuunou To Bareta Ore No Bijin Harem Kishidan: Gaikaku Hikume No Kijutsu Kishidan&lt;/strong&gt;&lt;br&gt;Latest Chapter: 21.1&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 04:15:22 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20241003/image_66fe135f2706a.png" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20241003/image_66fe135f2706a.png" medium="image" />
     </item>
   </channel>
 </rss>
