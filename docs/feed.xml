@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 04:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:53:10 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw - Chapter 103</title>
+      <link>https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-103.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-103.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" alt="Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw&lt;/strong&gt;&lt;br&gt;Latest Chapter: 103&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 04:53:09 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw - Chapter 100.5</title>
       <link>https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-100.5.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 09 Sep 2026 16:11:45 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250326/01_67e423a964e8b.png" />
       <media:content url="https://j4.jfimv2.xyz/images3/20250326/01_67e423a964e8b.png" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Konna Hazu Ja Nakatta: Muri-yari Koukyuu Ni Totsugasareta Watashi Ga, Koukyuu Kaikaku Wo Nashitogeru - Chapter 4.1</title>
-      <link>https://jestful.net/bsaq-konna-hazu-ja-nakatta-muri-yari-koukyuu-ni-totsugasareta-watashi-ga-koukyuu-kaikaku-wo-nashitogeru-chapter-4.1.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-konna-hazu-ja-nakatta-muri-yari-koukyuu-ni-totsugasareta-watashi-ga-koukyuu-kaikaku-wo-nashitogeru-chapter-4.1.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260701/konna-hazu-ja-nakatta-muri-yari-koukyuu-ni-totsugasareta-watashi-ga-koukyuu-kaikaku-wo-nashitogeru_6a453312ce8f0.jpg" alt="Konna Hazu Ja Nakatta: Muri-yari Koukyuu Ni Totsugasareta Watashi Ga, Koukyuu Kaikaku Wo Nashitogeru" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Konna Hazu Ja Nakatta: Muri-yari Koukyuu Ni Totsugasareta Watashi Ga, Koukyuu Kaikaku Wo Nashitogeru&lt;/strong&gt;&lt;br&gt;Latest Chapter: 4.1&lt;/p&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 16:11:46 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260701/konna-hazu-ja-nakatta-muri-yari-koukyuu-ni-totsugasareta-watashi-ga-koukyuu-kaikaku-wo-nashitogeru_6a453312ce8f0.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260701/konna-hazu-ja-nakatta-muri-yari-koukyuu-ni-totsugasareta-watashi-ga-koukyuu-kaikaku-wo-nashitogeru_6a453312ce8f0.jpg" medium="image" />
     </item>
   </channel>
 </rss>
