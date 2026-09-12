@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 02:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 03:10:46 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw - Chapter 91.5</title>
+      <link>https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-91.5.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-91.5.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" alt="Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw&lt;/strong&gt;&lt;br&gt;Latest Chapter: 91.5&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 03:10:45 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Ware Ni Cheat O - Hazure Cheat No Shoukan Yuusha Wa Isekai De Yukkuri Kurashitai - Chapter 77.1</title>
       <link>https://jestful.net/bsaq-ware-ni-cheat-o-hazure-cheat-no-shoukan-yuusha-wa-isekai-de-yukkuri-kurashitai-chapter-77.1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 09 Sep 2026 16:11:54 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images2/20211103/6182a6feb879f_6182a6ffc0313.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images2/20211103/6182a6feb879f_6182a6ffc0313.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Hanabasu: Kokeishi Hanae No Basuke Ron - Chapter 73</title>
-      <link>https://jestful.net/bsaq-hanabasu-kokeishi-hanae-no-basuke-ron-chapter-73.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-hanabasu-kokeishi-hanae-no-basuke-ron-chapter-73.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20250101/cvv_677561e2ee4d9.jpg" alt="Hanabasu: Kokeishi Hanae No Basuke Ron" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hanabasu: Kokeishi Hanae No Basuke Ron&lt;/strong&gt;&lt;br&gt;Latest Chapter: 73&lt;/p&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 15:46:31 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250101/cvv_677561e2ee4d9.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20250101/cvv_677561e2ee4d9.jpg" medium="image" />
     </item>
   </channel>
 </rss>
