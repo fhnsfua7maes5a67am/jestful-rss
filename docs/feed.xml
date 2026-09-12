@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:24:03 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Norowareta Mofumofu To Tsuihou Seijo No Mogumogu Henkyou Gurashi - Chapter 8.5</title>
+      <link>https://jestful.net/bsaq-norowareta-mofumofu-to-tsuihou-seijo-no-mogumogu-henkyou-gurashi-chapter-8.5.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-norowareta-mofumofu-to-tsuihou-seijo-no-mogumogu-henkyou-gurashi-chapter-8.5.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260112/04_696499b80e776.jpg" alt="Norowareta Mofumofu To Tsuihou Seijo No Mogumogu Henkyou Gurashi" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Norowareta Mofumofu To Tsuihou Seijo No Mogumogu Henkyou Gurashi&lt;/strong&gt;&lt;br&gt;Latest Chapter: 8.5&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 11:24:03 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260112/04_696499b80e776.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260112/04_696499b80e776.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Warui Mahoutsukai Wo Tsukamaeru Oshigoto - Chapter 10</title>
       <link>https://jestful.net/bsaq-warui-mahoutsukai-wo-tsukamaeru-oshigoto-chapter-10.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 09 Sep 2026 22:40:12 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251126/zenmetsu-end-wo-shini-mono-kurui-de-kaihi-shita-party-ga-yanda_6926b5886ec82.jpeg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20251126/zenmetsu-end-wo-shini-mono-kurui-de-kaihi-shita-party-ga-yanda_6926b5886ec82.jpeg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Senjitsu Yuusha Kara Tasukete Itadaita Seiken Desu Ga - Chapter 9.1</title>
-      <link>https://jestful.net/bsaq-senjitsu-yuusha-kara-tasukete-itadaita-seiken-desu-ga-chapter-9.1.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-senjitsu-yuusha-kara-tasukete-itadaita-seiken-desu-ga-chapter-9.1.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20251114/2_6916bd1166e73.jpg" alt="Senjitsu Yuusha Kara Tasukete Itadaita Seiken Desu Ga" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Senjitsu Yuusha Kara Tasukete Itadaita Seiken Desu Ga&lt;/strong&gt;&lt;br&gt;Latest Chapter: 9.1&lt;/p&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 22:40:13 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251114/2_6916bd1166e73.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20251114/2_6916bd1166e73.jpg" medium="image" />
     </item>
   </channel>
 </rss>
