@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:25:16 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw - Chapter 105</title>
+      <link>https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-105.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-105.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" alt="Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw&lt;/strong&gt;&lt;br&gt;Latest Chapter: 105&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 05:25:15 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images/20200807/5f2cc6b8d1772_5f2cc6b96cec0.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Jimina Ken Sei Wa Sore Demo Saikyoudesu - Raw - Chapter 103</title>
       <link>https://jestful.net/bsaq-jimina-ken-sei-wa-sore-demo-saikyoudesu-raw-chapter-103.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 09 Sep 2026 16:30:32 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260909/hiyoko-redisu-souchou-no-idol-funtouki_6aa1852796046.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images4/20260909/hiyoko-redisu-souchou-no-idol-funtouki_6aa1852796046.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Ore Wa Boukensha Guild No Akutoku Guild Master - Jinzai Wo Tekizaitekisho Ni Tsuihou Shitara, Naze Ka Mechakucha Kansha Saremashita - Chapter 12.1</title>
-      <link>https://jestful.net/bsaq-ore-wa-boukensha-guild-no-akutoku-guild-master-jinzai-wo-tekizaitekisho-ni-tsuihou-shitara-naze-ka-mechakucha-kansha-saremashita-chapter-12.1.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-ore-wa-boukensha-guild-no-akutoku-guild-master-jinzai-wo-tekizaitekisho-ni-tsuihou-shitara-naze-ka-mechakucha-kansha-saremashita-chapter-12.1.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20250326/01_67e423a964e8b.png" alt="Ore Wa Boukensha Guild No Akutoku Guild Master - Jinzai Wo Tekizaitekisho Ni Tsuihou Shitara, Naze Ka Mechakucha Kansha Saremashita" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ore Wa Boukensha Guild No Akutoku Guild Master - Jinzai Wo Tekizaitekisho Ni Tsuihou Shitara, Naze Ka Mechakucha Kansha Saremashita&lt;/strong&gt;&lt;br&gt;Latest Chapter: 12.1&lt;/p&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 16:11:45 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250326/01_67e423a964e8b.png" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20250326/01_67e423a964e8b.png" medium="image" />
     </item>
   </channel>
 </rss>
