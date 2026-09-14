@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:58:31 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Tera Umare Neko No Tama-san - Chapter 5</title>
+      <link>https://jestful.net/bsaq-tera-umare-neko-no-tama-san-chapter-5.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-tera-umare-neko-no-tama-san-chapter-5.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260914/tera-umare-neko-no-tama-san_6aa7eab021769.jpg" alt="Tera Umare Neko No Tama-san" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tera Umare Neko No Tama-san&lt;/strong&gt;&lt;br&gt;Latest Chapter: 5&lt;/p&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 12:58:31 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260914/tera-umare-neko-no-tama-san_6aa7eab021769.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260914/tera-umare-neko-no-tama-san_6aa7eab021769.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Osananajimitachi Ga Ninki Idol Ni Natta: Amama Na Kanojotachi Wa Ore Ni Mitsuide Kureteiru - Chapter 5.1</title>
       <link>https://jestful.net/bsaq-osananajimitachi-ga-ninki-idol-ni-natta-amama-na-kanojotachi-wa-ore-ni-mitsuide-kureteiru-chapter-5.1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Fri, 11 Sep 2026 03:45:40 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240520/image_664ad9e76c20b.png" />
       <media:content url="https://j4.jfimv2.xyz/images3/20240520/image_664ad9e76c20b.png" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Gunshin No Hanayome - Chapter 17.2</title>
-      <link>https://jestful.net/bsaq-gunshin-no-hanayome-chapter-17.2.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-gunshin-no-hanayome-chapter-17.2.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20240427/image_662d2cc66a207.png" alt="Gunshin No Hanayome" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Gunshin No Hanayome&lt;/strong&gt;&lt;br&gt;Latest Chapter: 17.2&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 03:45:41 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240427/image_662d2cc66a207.png" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20240427/image_662d2cc66a207.png" medium="image" />
     </item>
   </channel>
 </rss>
