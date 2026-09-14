@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:28:48 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Onna Maou-sama Wa Yuusha-kun Wo Taosenai. - Chapter 41</title>
+      <link>https://jestful.net/bsaq-onna-maou-sama-wa-yuusha-kun-wo-taosenai--chapter-41.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-onna-maou-sama-wa-yuusha-kun-wo-taosenai--chapter-41.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20240329/6605e6a20a921_6605e6a2bcca6.jpg" alt="Onna Maou-sama Wa Yuusha-kun Wo Taosenai." style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Onna Maou-sama Wa Yuusha-kun Wo Taosenai.&lt;/strong&gt;&lt;br&gt;Latest Chapter: 41&lt;/p&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 22:28:48 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240329/6605e6a20a921_6605e6a2bcca6.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20240329/6605e6a20a921_6605e6a2bcca6.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] 5-fun No Ace - Chapter 5.3</title>
       <link>https://jestful.net/bsaq-5-fun-no-ace-chapter-5.3.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Fri, 11 Sep 2026 04:44:52 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251213/hachibyou-de-tobe_693d2a0471e7e.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20251213/hachibyou-de-tobe_693d2a0471e7e.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Koutei Denka No Yakutou Kisaki: Hatsukoi No Hito To No Kakeochi Saki Wa Koukyuu Deshita - Chapter 16</title>
-      <link>https://jestful.net/bsaq-koutei-denka-no-yakutou-kisaki-hatsukoi-no-hito-to-no-kakeochi-saki-wa-koukyuu-deshita-chapter-16.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-koutei-denka-no-yakutou-kisaki-hatsukoi-no-hito-to-no-kakeochi-saki-wa-koukyuu-deshita-chapter-16.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20251129/koutei-denka-no-yakutou-kisaki-hatsukoi-no-hito-to-no-kakeochi-saki-wa-koukyuu-deshita_692ab7462105e.jpg" alt="Koutei Denka No Yakutou Kisaki: Hatsukoi No Hito To No Kakeochi Saki Wa Koukyuu Deshita" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Koutei Denka No Yakutou Kisaki: Hatsukoi No Hito To No Kakeochi Saki Wa Koukyuu Deshita&lt;/strong&gt;&lt;br&gt;Latest Chapter: 16&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 04:44:53 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251129/koutei-denka-no-yakutou-kisaki-hatsukoi-no-hito-to-no-kakeochi-saki-wa-koukyuu-deshita_692ab7462105e.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20251129/koutei-denka-no-yakutou-kisaki-hatsukoi-no-hito-to-no-kakeochi-saki-wa-koukyuu-deshita_692ab7462105e.jpg" medium="image" />
     </item>
   </channel>
 </rss>
