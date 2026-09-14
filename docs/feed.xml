@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:10:35 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Chusei Shin Ga Nai To Iwaretanode Konyaku Wo Kaisho Shiteagemashita. - Chapter 19.2</title>
+      <link>https://jestful.net/bsaq-chusei-shin-ga-nai-to-iwaretanode-konyaku-wo-kaisho-shiteagemashita--chapter-19.2.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-chusei-shin-ga-nai-to-iwaretanode-konyaku-wo-kaisho-shiteagemashita--chapter-19.2.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20240907/03_66dbbf4eca2a7.jpg" alt="Chusei Shin Ga Nai To Iwaretanode Konyaku Wo Kaisho Shiteagemashita." style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chusei Shin Ga Nai To Iwaretanode Konyaku Wo Kaisho Shiteagemashita.&lt;/strong&gt;&lt;br&gt;Latest Chapter: 19.2&lt;/p&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 05:10:34 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240907/03_66dbbf4eca2a7.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20240907/03_66dbbf4eca2a7.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] [pakupaku Desu Wa] Tsuihou Sareta Ojousama No “monster Wo Taberu Hodo Tsuyoku Naru” Sukiru Wa, 1-shoku De 1 Reberuappu Suru Zendaimimon No Saikyou Sukiru Deshita. 3-nichi De Jinrui Saikyou Ni Narimashita Wa ~! - Raw - Chapter 32.1</title>
       <link>https://jestful.net/bsaq-pakupaku-desu-wa-tsuihou-sareta-ojousama-no-monster-wo-taberu-hodo-tsuyoku-naru-sukiru-wa-1-shoku-de-1-reberuappu-suru-zendaimimon-no-saikyou-sukiru-deshita-3-nichi-de-jinrui-saikyou-ni-narimashita-wa-raw-chapter-32.1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Fri, 11 Sep 2026 02:11:12 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250508/image_681c492cb2d70.png" />
       <media:content url="https://j4.jfimv2.xyz/images3/20250508/image_681c492cb2d70.png" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Hoshi Naki Sekai No Annainin - Chapter 13</title>
-      <link>https://jestful.net/bsaq-hoshi-naki-sekai-no-annainin-chapter-13.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-hoshi-naki-sekai-no-annainin-chapter-13.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20250508/001_681c484d12d65.jpg" alt="Hoshi Naki Sekai No Annainin" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hoshi Naki Sekai No Annainin&lt;/strong&gt;&lt;br&gt;Latest Chapter: 13&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 02:11:13 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250508/001_681c484d12d65.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20250508/001_681c484d12d65.jpg" medium="image" />
     </item>
   </channel>
 </rss>
