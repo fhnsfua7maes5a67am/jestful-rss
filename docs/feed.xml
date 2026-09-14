@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:45:15 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Walking In Another World - Chapter 161</title>
+      <link>https://jestful.net/bsaq-walking-in-another-world-chapter-161.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-walking-in-another-world-chapter-161.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images2/20221113/06_6371090debb52.jpg" alt="Walking In Another World" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Walking In Another World&lt;/strong&gt;&lt;br&gt;Latest Chapter: 161&lt;/p&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 02:45:15 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images2/20221113/06_6371090debb52.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images2/20221113/06_6371090debb52.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Aisuru Konyakusha Ni Korosareta Koushaku Reijou, Shinimodori Shite Hikari No Koushaku Sama (otousama) No Dekiai Ni Kizuku ~ Kondo Koso, Ikite Shiawase Ni Narimasu! - Chapter 7.1</title>
       <link>https://jestful.net/bsaq-aisuru-konyakusha-ni-korosareta-koushaku-reijou-shinimodori-shite-hikari-no-koushaku-sama-otousama-no-dekiai-ni-kizuku-kondo-koso-ikite-shiawase-ni-narimasu-chapter-7.1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Fri, 11 Sep 2026 01:54:33 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260320/robrave_69bcb499253df.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images4/20260320/robrave_69bcb499253df.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Buyotopia - Chapter 21</title>
-      <link>https://jestful.net/bsaq-buyotopia-chapter-21.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-buyotopia-chapter-21.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260313/buyotopia_69b3c744424bd.jpg" alt="Buyotopia" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Buyotopia&lt;/strong&gt;&lt;br&gt;Latest Chapter: 21&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 01:54:34 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260313/buyotopia_69b3c744424bd.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260313/buyotopia_69b3c744424bd.jpg" medium="image" />
     </item>
   </channel>
 </rss>
