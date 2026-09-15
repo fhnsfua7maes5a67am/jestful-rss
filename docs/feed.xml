@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:10:07 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Ijime No Shikaeshi Wa Sensei Ni Omakase - Chapter 20.2</title>
+      <link>https://jestful.net/bsaq-ijime-no-shikaeshi-wa-sensei-ni-omakase-chapter-20.2.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-ijime-no-shikaeshi-wa-sensei-ni-omakase-chapter-20.2.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://jestful.net/pagespeed_static/1.JiBnMqyl6S.gif" alt="Ijime No Shikaeshi Wa Sensei Ni Omakase" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ijime No Shikaeshi Wa Sensei Ni Omakase&lt;/strong&gt;&lt;br&gt;Latest Chapter: 20.2&lt;/p&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:10:07 +0000</pubDate>
+      <media:thumbnail url="https://jestful.net/pagespeed_static/1.JiBnMqyl6S.gif" />
+      <media:content url="https://jestful.net/pagespeed_static/1.JiBnMqyl6S.gif" medium="image" />
+    </item>
     <item>
       <title>[更新] The Last Terran - Chapter 2</title>
       <link>https://jestful.net/bsaq-the-last-terran-chapter-2.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Sat, 12 Sep 2026 04:10:39 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251101/01_6905cdb915df2.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20251101/01_6905cdb915df2.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Kiyora Tamayura - Chapter 10.1</title>
-      <link>https://jestful.net/bsaq-kiyora-tamayura-chapter-10.1.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-kiyora-tamayura-chapter-10.1.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20250914/image_68c6d76473626.png" alt="Kiyora Tamayura" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kiyora Tamayura&lt;/strong&gt;&lt;br&gt;Latest Chapter: 10.1&lt;/p&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 04:10:40 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250914/image_68c6d76473626.png" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20250914/image_68c6d76473626.png" medium="image" />
     </item>
   </channel>
 </rss>
