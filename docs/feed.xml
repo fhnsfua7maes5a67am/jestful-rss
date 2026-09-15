@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:41:20 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Death Metal Yamada To Youjo Maou No Makai Kaikakuki - Chapter 1</title>
+      <link>https://jestful.net/bsaq-death-metal-yamada-to-youjo-maou-no-makai-kaikakuki-chapter-1.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-death-metal-yamada-to-youjo-maou-no-makai-kaikakuki-chapter-1.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260915/death-metal-yamada-to-youjo-maou-no-makai-kaikakuki_6aa91bac94894.jpg" alt="Death Metal Yamada To Youjo Maou No Makai Kaikakuki" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Death Metal Yamada To Youjo Maou No Makai Kaikakuki&lt;/strong&gt;&lt;br&gt;Latest Chapter: 1&lt;/p&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 10:41:20 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260915/death-metal-yamada-to-youjo-maou-no-makai-kaikakuki_6aa91bac94894.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260915/death-metal-yamada-to-youjo-maou-no-makai-kaikakuki_6aa91bac94894.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Bōkensha Pātī O Tsuihō Sareta Kaifukushi No Shōjo O Hirotte Ikusei Shitara, Masaka No Saikyō Shokugyō Ni Tenshoku!? Omake Ni Kanojo No Yōsu Ga Nanyara Okashikute... - Chapter 25.1</title>
       <link>https://jestful.net/bsaq-bkensha-pt-o-tsuih-sareta-kaifukushi-no-shjo-o-hirotte-ikusei-shitara-masaka-no-saiky-shokugy-ni-tenshoku-omake-ni-kanojo-no-ysu-ga-nanyara-okashikute--chapter-25.1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Fri, 11 Sep 2026 11:10:48 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260509/001_69ff08b8cfd99.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images4/20260509/001_69ff08b8cfd99.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Kiki Kill - Chapter 11</title>
-      <link>https://jestful.net/bsaq-kiki-kill-chapter-11.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-kiki-kill-chapter-11.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260410/kiki-kill_69d867f23e37e.jpeg" alt="Kiki Kill" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kiki Kill&lt;/strong&gt;&lt;br&gt;Latest Chapter: 11&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:49 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260410/kiki-kill_69d867f23e37e.jpeg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260410/kiki-kill_69d867f23e37e.jpeg" medium="image" />
     </item>
   </channel>
 </rss>
