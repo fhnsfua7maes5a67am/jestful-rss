@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:11:17 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Satanophany - Raw - Chapter 339</title>
+      <link>https://jestful.net/bsaq-satanophany-raw-chapter-339.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-satanophany-raw-chapter-339.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images/20200804/5f28f1e2b6f59_5f28f1e3607f2.jpg" alt="Satanophany - Raw" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Satanophany - Raw&lt;/strong&gt;&lt;br&gt;Latest Chapter: 339&lt;/p&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 15:11:17 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images/20200804/5f28f1e2b6f59_5f28f1e3607f2.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images/20200804/5f28f1e2b6f59_5f28f1e3607f2.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Hishowan: Hisho Wa Inu Desu Ga Nanika? - Chapter 12.2</title>
       <link>https://jestful.net/bsaq-hishowan-hisho-wa-inu-desu-ga-nanika-chapter-12.2.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Fri, 11 Sep 2026 15:40:54 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images/20200411/5e91ae5bdde3e_5e91ae5e32ed4.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images/20200411/5e91ae5bdde3e_5e91ae5e32ed4.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Delivery Health Yondara Moto Doukyuusei Ga Kita - Chapter 11</title>
-      <link>https://jestful.net/bsaq-delivery-health-yondara-moto-doukyuusei-ga-kita-chapter-11.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-delivery-health-yondara-moto-doukyuusei-ga-kita-chapter-11.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260612/delivery-health-yondara-moto-doukyuusei-ga-kita_6a2c29799d430.jpg" alt="Delivery Health Yondara Moto Doukyuusei Ga Kita" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Delivery Health Yondara Moto Doukyuusei Ga Kita&lt;/strong&gt;&lt;br&gt;Latest Chapter: 11&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 15:40:55 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260612/delivery-health-yondara-moto-doukyuusei-ga-kita_6a2c29799d430.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260612/delivery-health-yondara-moto-doukyuusei-ga-kita_6a2c29799d430.jpg" medium="image" />
     </item>
   </channel>
 </rss>
