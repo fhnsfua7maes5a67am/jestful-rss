@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:10:43 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Mietemasu Yo! Aizawa-san - Chapter 34</title>
+      <link>https://jestful.net/bsaq-mietemasu-yo-aizawa-san-chapter-34.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-mietemasu-yo-aizawa-san-chapter-34.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images2/20220707/001_62c610e83fb49.jpg" alt="Mietemasu Yo! Aizawa-san" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mietemasu Yo! Aizawa-san&lt;/strong&gt;&lt;br&gt;Latest Chapter: 34&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 22:10:43 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images2/20220707/001_62c610e83fb49.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images2/20220707/001_62c610e83fb49.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Ouji-sama Ni Dekiai Sarete Komattemasu ~tensei Heroine, Otome Game Funtouki~ - Chapter 38.2</title>
       <link>https://jestful.net/bsaq-ouji-sama-ni-dekiai-sarete-komattemasu-tensei-heroine-otome-game-funtouki-chapter-38.2.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Sun, 13 Sep 2026 20:11:01 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20241125/015_6743a3eedfbd1.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20241125/015_6743a3eedfbd1.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Amateur Vigilante - Chapter 83</title>
-      <link>https://jestful.net/bsaq-amateur-vigilante-chapter-83.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-amateur-vigilante-chapter-83.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20240623/02_667846123f805.jpg" alt="Amateur Vigilante" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amateur Vigilante&lt;/strong&gt;&lt;br&gt;Latest Chapter: 83&lt;/p&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 20:11:01 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240623/02_667846123f805.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20240623/02_667846123f805.jpg" medium="image" />
     </item>
   </channel>
 </rss>
