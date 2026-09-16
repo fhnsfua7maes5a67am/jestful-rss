@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:29:07 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Seikishi Desuga, Takane No Sanseijo No Darekaw O Yottaikioi De Daiteshimatta Ken Ni Tsuite - Chapter 15</title>
+      <link>https://jestful.net/bsaq-seikishi-desuga-takane-no-sanseijo-no-darekaw-o-yottaikioi-de-daiteshimatta-ken-ni-tsuite-chapter-15.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-seikishi-desuga-takane-no-sanseijo-no-darekaw-o-yottaikioi-de-daiteshimatta-ken-ni-tsuite-chapter-15.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20241121/image_673f0a9016d18.png" alt="Seikishi Desuga, Takane No Sanseijo No Darekaw O Yottaikioi De Daiteshimatta Ken Ni Tsuite" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Seikishi Desuga, Takane No Sanseijo No Darekaw O Yottaikioi De Daiteshimatta Ken Ni Tsuite&lt;/strong&gt;&lt;br&gt;Latest Chapter: 15&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 13:29:06 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20241121/image_673f0a9016d18.png" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20241121/image_673f0a9016d18.png" medium="image" />
+    </item>
     <item>
       <title>[更新] Datsusara Nouka No Isekai Slow Life: Risou No Kurashino Tame, Zense No Chishiki De Nogyo No Hatten Wo Mezashimasu - Chapter 18</title>
       <link>https://jestful.net/bsaq-datsusara-nouka-no-isekai-slow-life-risou-no-kurashino-tame-zense-no-chishiki-de-nogyo-no-hatten-wo-mezashimasu-chapter-18.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Sun, 13 Sep 2026 20:11:59 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250518/6828cba709c60_6828cba85d350.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20250518/6828cba709c60_6828cba85d350.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Todo-san To Nia-chan - Chapter 7.2</title>
-      <link>https://jestful.net/bsaq-todo-san-to-nia-chan-chapter-7.2.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-todo-san-to-nia-chan-chapter-7.2.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260517/todo-san-to-nia-chan_6a09dd84d6f69.jpg" alt="Todo-san To Nia-chan" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Todo-san To Nia-chan&lt;/strong&gt;&lt;br&gt;Latest Chapter: 7.2&lt;/p&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 20:12:00 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260517/todo-san-to-nia-chan_6a09dd84d6f69.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260517/todo-san-to-nia-chan_6a09dd84d6f69.jpg" medium="image" />
     </item>
   </channel>
 </rss>
