@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:46:28 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Bannou Maid To Koushaku-sama No Tanoshii Hibi - Chapter 7.4</title>
+      <link>https://jestful.net/bsaq-bannou-maid-to-koushaku-sama-no-tanoshii-hibi-chapter-7.4.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-bannou-maid-to-koushaku-sama-no-tanoshii-hibi-chapter-7.4.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20251107/image_690d69b9650dc.png" alt="Bannou Maid To Koushaku-sama No Tanoshii Hibi" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bannou Maid To Koushaku-sama No Tanoshii Hibi&lt;/strong&gt;&lt;br&gt;Latest Chapter: 7.4&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 13:46:27 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251107/image_690d69b9650dc.png" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20251107/image_690d69b9650dc.png" medium="image" />
+    </item>
     <item>
       <title>[更新] Seikishi Desuga, Takane No Sanseijo No Darekaw O Yottaikioi De Daiteshimatta Ken Ni Tsuite - Chapter 15</title>
       <link>https://jestful.net/bsaq-seikishi-desuga-takane-no-sanseijo-no-darekaw-o-yottaikioi-de-daiteshimatta-ken-ni-tsuite-chapter-15.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Sun, 13 Sep 2026 20:11:58 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260117/makeinu-to-lion_696bba008fcc9.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images4/20260117/makeinu-to-lion_696bba008fcc9.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Minna No Kiss Club - Chapter 34</title>
-      <link>https://jestful.net/bsaq-minna-no-kiss-club-chapter-34.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-minna-no-kiss-club-chapter-34.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20250518/6828cba709c60_6828cba85d350.jpg" alt="Minna No Kiss Club" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minna No Kiss Club&lt;/strong&gt;&lt;br&gt;Latest Chapter: 34&lt;/p&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 20:11:59 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250518/6828cba709c60_6828cba85d350.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20250518/6828cba709c60_6828cba85d350.jpg" medium="image" />
     </item>
   </channel>
 </rss>
