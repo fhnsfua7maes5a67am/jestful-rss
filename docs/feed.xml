@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:56:51 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Isekai De Mizu No Dai Seirei Yattemasu. (manga) - Chapter 32</title>
+      <link>https://jestful.net/bsaq-isekai-de-mizu-no-dai-seirei-yattemasu-manga-chapter-32.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-isekai-de-mizu-no-dai-seirei-yattemasu-manga-chapter-32.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20230817/image_64dd962c78377.png" alt="Isekai De Mizu No Dai Seirei Yattemasu. (manga)" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Isekai De Mizu No Dai Seirei Yattemasu. (manga)&lt;/strong&gt;&lt;br&gt;Latest Chapter: 32&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 09:56:50 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20230817/image_64dd962c78377.png" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20230817/image_64dd962c78377.png" medium="image" />
+    </item>
     <item>
       <title>[更新] Mrs. Akechi - Chapter 13</title>
       <link>https://jestful.net/bsaq-mrs-akechi-chapter-13.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Mon, 14 Sep 2026 03:42:52 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240429/image_662efcfae087a.png" />
       <media:content url="https://j4.jfimv2.xyz/images3/20240429/image_662efcfae087a.png" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Kusuri Uri No Seijo - Enzai De Tsuihousareta Yakushi Wa, Henkyou No Ji De Shiawase Wo Tsukamu - Chapter 15.2</title>
-      <link>https://jestful.net/bsaq-kusuri-uri-no-seijo-enzai-de-tsuihousareta-yakushi-wa-henkyou-no-ji-de-shiawase-wo-tsukamu-chapter-15.2.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-kusuri-uri-no-seijo-enzai-de-tsuihousareta-yakushi-wa-henkyou-no-ji-de-shiawase-wo-tsukamu-chapter-15.2.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20240226/image_65dc09b0d702f.png" alt="Kusuri Uri No Seijo - Enzai De Tsuihousareta Yakushi Wa, Henkyou No Ji De Shiawase Wo Tsukamu" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kusuri Uri No Seijo - Enzai De Tsuihousareta Yakushi Wa, Henkyou No Ji De Shiawase Wo Tsukamu&lt;/strong&gt;&lt;br&gt;Latest Chapter: 15.2&lt;/p&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 03:42:53 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240226/image_65dc09b0d702f.png" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20240226/image_65dc09b0d702f.png" medium="image" />
     </item>
   </channel>
 </rss>
