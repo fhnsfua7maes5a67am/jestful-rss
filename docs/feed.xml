@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 05:10:42 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Nisemono Ni Ubawareta Seijo No Chii, Nantonakushitemo Torikaesa... Nakute Iikka! - Chapter 20.1</title>
+      <link>https://jestful.net/bsaq-nisemono-ni-ubawareta-seijo-no-chii-nantonakushitemo-torikaesa-nakute-iikka-chapter-20.1.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-nisemono-ni-ubawareta-seijo-no-chii-nantonakushitemo-torikaesa-nakute-iikka-chapter-20.1.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20250301/67c2ee1b2706d_67c2ee1d30971.jpg" alt="Nisemono Ni Ubawareta Seijo No Chii, Nantonakushitemo Torikaesa... Nakute Iikka!" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nisemono Ni Ubawareta Seijo No Chii, Nantonakushitemo Torikaesa... Nakute Iikka!&lt;/strong&gt;&lt;br&gt;Latest Chapter: 20.1&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 05:10:41 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20250301/67c2ee1b2706d_67c2ee1d30971.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20250301/67c2ee1b2706d_67c2ee1d30971.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Waga Na Wa Maou Buta Goblin Nari! ~buta Goblin To Sagesumareta Shounen Wa Vrmmo Iankamusu De Maou Tonari Saikyou Player Wo Mezasu~ - Chapter 1</title>
       <link>https://jestful.net/bsaq-waga-na-wa-maou-buta-goblin-nari-buta-goblin-to-sagesumareta-shounen-wa-vrmmo-iankamusu-de-maou-tonari-saikyou-player-wo-mezasu-chapter-1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Mon, 14 Sep 2026 01:53:40 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images2/20210725/002_60fd8e67aec3d.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images2/20210725/002_60fd8e67aec3d.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Isekai Walking - Chapter 161</title>
-      <link>https://jestful.net/bsaq-isekai-walking-chapter-161.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-isekai-walking-chapter-161.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images2/20221113/63710a02095c2_63710a02ed2d1.jpg" alt="Isekai Walking" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Isekai Walking&lt;/strong&gt;&lt;br&gt;Latest Chapter: 161&lt;/p&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 01:53:41 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images2/20221113/63710a02095c2_63710a02ed2d1.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images2/20221113/63710a02095c2_63710a02ed2d1.jpg" medium="image" />
     </item>
   </channel>
 </rss>
