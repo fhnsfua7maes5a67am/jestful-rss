@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:33:32 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Dragon No I De Oyasumi - Chapter 25</title>
+      <link>https://jestful.net/bsaq-dragon-no-i-de-oyasumi-chapter-25.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-dragon-no-i-de-oyasumi-chapter-25.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260209/dragon-no-i-de-oyasumi_6989fd176b074.jpg" alt="Dragon No I De Oyasumi" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Dragon No I De Oyasumi&lt;/strong&gt;&lt;br&gt;Latest Chapter: 25&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 18:33:31 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260209/dragon-no-i-de-oyasumi_6989fd176b074.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260209/dragon-no-i-de-oyasumi_6989fd176b074.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Umareta Kyuujo Wa Ryuou Ni Aisareru - Chapter 2.1</title>
       <link>https://jestful.net/bsaq-umareta-kyuujo-wa-ryuou-ni-aisareru-chapter-2.1.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Mon, 14 Sep 2026 22:28:48 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images3/20240329/6605e6a20a921_6605e6a2bcca6.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images3/20240329/6605e6a20a921_6605e6a2bcca6.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] 5-fun No Ace - Chapter 5.3</title>
-      <link>https://jestful.net/bsaq-5-fun-no-ace-chapter-5.3.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-5-fun-no-ace-chapter-5.3.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260420/5-fun-no-ace_69e6155d4147b.jpg" alt="5-fun No Ace" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5-fun No Ace&lt;/strong&gt;&lt;br&gt;Latest Chapter: 5.3&lt;/p&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 22:11:25 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260420/5-fun-no-ace_69e6155d4147b.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260420/5-fun-no-ace_69e6155d4147b.jpg" medium="image" />
     </item>
   </channel>
 </rss>
