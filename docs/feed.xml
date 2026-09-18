@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:26:35 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Yobidasareta Satsurikusha ~kyoujin Sairin~ - Chapter 1</title>
+      <link>https://jestful.net/bsaq-yobidasareta-satsurikusha-kyoujin-sairin-chapter-1.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-yobidasareta-satsurikusha-kyoujin-sairin-chapter-1.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260918/yobidasareta-satsurikusha-kyoujin-sairin_6aad38f1b55f5.jpg" alt="Yobidasareta Satsurikusha ~kyoujin Sairin~" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Yobidasareta Satsurikusha ~kyoujin Sairin~&lt;/strong&gt;&lt;br&gt;Latest Chapter: 1&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 13:26:35 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260918/yobidasareta-satsurikusha-kyoujin-sairin_6aad38f1b55f5.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260918/yobidasareta-satsurikusha-kyoujin-sairin_6aad38f1b55f5.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Maids Of Order - Chapter 0</title>
       <link>https://jestful.net/bsaq-maids-of-order-chapter-0.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 16 Sep 2026 02:44:02 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images/20200805/5f2a96a8f300a_5f2a96ab59430.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images/20200805/5f2a96a8f300a_5f2a96ab59430.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu! - Chapter 3.2</title>
-      <link>https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.2.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-ryouchi-no-subete-wo-golem-de-jidouka-shita-ore-sabotte-iru-to-iwarete-tsuihousareta-node-makyou-wo-chiito-gijutsu-de-kaitaku-shimasu-chapter-3.2.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260812/ryouchi-no-subete-wo-golem-de-jidouka-shita-ore_6a7c06acedb72.jpg" alt="Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu!" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ryouchi No Subete Wo Golem De Jidouka Shita Ore, Sabotte Iru To Iwarete Tsuihousareta Node Makyou Wo Chiito Gijutsu De Kaitaku Shimasu!&lt;/strong&gt;&lt;br&gt;Latest Chapter: 3.2&lt;/p&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 00:37:01 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260812/ryouchi-no-subete-wo-golem-de-jidouka-shita-ore_6a7c06acedb72.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260812/ryouchi-no-subete-wo-golem-de-jidouka-shita-ore_6a7c06acedb72.jpg" medium="image" />
     </item>
   </channel>
 </rss>
