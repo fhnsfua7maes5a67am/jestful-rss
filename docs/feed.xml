@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:55:10 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Boku No Kenzen Na Mahou Gakuen Seikatsu - Chapter 1</title>
+      <link>https://jestful.net/bsaq-boku-no-kenzen-na-mahou-gakuen-seikatsu-chapter-1.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-boku-no-kenzen-na-mahou-gakuen-seikatsu-chapter-1.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260918/boku-no-kenzen-na-mahou-gakuen-seikatsu_6aad312768bff.jpg" alt="Boku No Kenzen Na Mahou Gakuen Seikatsu" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Boku No Kenzen Na Mahou Gakuen Seikatsu&lt;/strong&gt;&lt;br&gt;Latest Chapter: 1&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 12:55:10 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260918/boku-no-kenzen-na-mahou-gakuen-seikatsu_6aad312768bff.jpg" />
+      <media:content url="https://j4.jfimv2.xyz/images4/20260918/boku-no-kenzen-na-mahou-gakuen-seikatsu_6aad312768bff.jpg" medium="image" />
+    </item>
     <item>
       <title>[更新] Sumaho De Isekai No Kami Ni Naru Houhou ~shitsugyou Shitara Reikoku Ryoushu Ni Aisaremashita~ Raw - Chapter 11</title>
       <link>https://jestful.net/bsaq-sumaho-de-isekai-no-kami-ni-naru-houhou-shitsugyou-shitara-reikoku-ryoushu-ni-aisaremashita-raw-chapter-11.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 16 Sep 2026 00:37:03 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260128/06_697984215a2ee.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images4/20260128/06_697984215a2ee.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Kaku Shite Kisetsuha Aowoshiau - Chapter 6</title>
-      <link>https://jestful.net/bsaq-kaku-shite-kisetsuha-aowoshiau-chapter-6.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-kaku-shite-kisetsuha-aowoshiau-chapter-6.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images4/20260804/kaku-shite-kisetsuha-aowoshiau_6a720cfc44c7c.jpg" alt="Kaku Shite Kisetsuha Aowoshiau" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kaku Shite Kisetsuha Aowoshiau&lt;/strong&gt;&lt;br&gt;Latest Chapter: 6&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 22:40:04 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260804/kaku-shite-kisetsuha-aowoshiau_6a720cfc44c7c.jpg" />
-      <media:content url="https://j4.jfimv2.xyz/images4/20260804/kaku-shite-kisetsuha-aowoshiau_6a720cfc44c7c.jpg" medium="image" />
     </item>
   </channel>
 </rss>
