@@ -5,8 +5,17 @@
     <link>https://jestful.net/manga-list.html</link>
     <description>Jestfulで更新された漫画をサムネイル付きで通知</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:36:41 +0000</lastBuildDate>
     <atom:link href="https://fhnsfua7maes5a67am.github.io/jestful-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新] Joshi Koukousei No Nichijou - Chapter 29</title>
+      <link>https://jestful.net/bsaq-joshi-koukousei-no-nichijou-chapter-29.html</link>
+      <guid isPermaLink="true">https://jestful.net/bsaq-joshi-koukousei-no-nichijou-chapter-29.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20251101/image_6905ca2166f3a.png" alt="Joshi Koukousei No Nichijou" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Joshi Koukousei No Nichijou&lt;/strong&gt;&lt;br&gt;Latest Chapter: 29&lt;/p&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 00:36:40 +0000</pubDate>
+      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20251101/image_6905ca2166f3a.png" />
+      <media:content url="https://j4.jfimv2.xyz/images3/20251101/image_6905ca2166f3a.png" medium="image" />
+    </item>
     <item>
       <title>[更新] A, Akuma-chan - Chapter 15</title>
       <link>https://jestful.net/bsaq-a-akuma-chan-chapter-15.html</link>
@@ -4497,15 +4506,6 @@
       <pubDate>Wed, 16 Sep 2026 04:57:24 +0000</pubDate>
       <media:thumbnail url="https://j4.jfimv2.xyz/images4/20260501/kouhai-chan-wa-yarisugiru_69f4d1fd1a7e2.jpg" />
       <media:content url="https://j4.jfimv2.xyz/images4/20260501/kouhai-chan-wa-yarisugiru_69f4d1fd1a7e2.jpg" medium="image" />
-    </item>
-    <item>
-      <title>[更新] Stupid Woman 26:00 - Chapter 32</title>
-      <link>https://jestful.net/bsaq-stupid-woman-26-00-chapter-32.html</link>
-      <guid isPermaLink="true">https://jestful.net/bsaq-stupid-woman-26-00-chapter-32.html</guid>
-      <description>&lt;p&gt;&lt;img src="https://j4.jfimv2.xyz/images3/20231122/image_655d92f9c3939.png" alt="Stupid Woman 26:00" style="max-width:320px;height:auto"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stupid Woman 26:00&lt;/strong&gt;&lt;br&gt;Latest Chapter: 32&lt;/p&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 04:57:24 +0000</pubDate>
-      <media:thumbnail url="https://j4.jfimv2.xyz/images3/20231122/image_655d92f9c3939.png" />
-      <media:content url="https://j4.jfimv2.xyz/images3/20231122/image_655d92f9c3939.png" medium="image" />
     </item>
   </channel>
 </rss>
